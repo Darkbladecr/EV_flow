@@ -1,0 +1,69 @@
+group,organ,population,mean,p-value,95% CI
+sham,bone marrow,gMDSC,3.0699999999999994,,
+sham,bone marrow,mMDSC,39.660000000000004,,
+sham,peripheral blood,gMDSC,2.5980000000000003,,
+sham,peripheral blood,mMDSC,0.42000000000000004,,
+sham,spleen,gMDSC,6.148,,
+sham,spleen,mMDSC,8.746,,
+EV20,bone marrow,gMDSC,6.164,,
+EV20,bone marrow,mMDSC,25.04,,
+EV20,peripheral blood,gMDSC,6.878,,
+EV20,peripheral blood,mMDSC,0.1608,,
+EV20,spleen,gMDSC,0.782,,
+EV20,spleen,mMDSC,4.1579999999999995,,
+EV50,bone marrow,gMDSC,1.588,,
+EV50,bone marrow,mMDSC,26.919999999999998,,
+EV50,peripheral blood,gMDSC,3.342,,
+EV50,peripheral blood,mMDSC,1.524,,
+EV50,spleen,gMDSC,1.484,,
+EV50,spleen,mMDSC,2.382,,
+EV100,bone marrow,gMDSC,2.54,,
+EV100,bone marrow,mMDSC,33.0,,
+EV100,peripheral blood,gMDSC,4.66,,
+EV100,peripheral blood,mMDSC,1.8566666666666667,,
+EV100,spleen,gMDSC,1.92,,
+EV100,spleen,mMDSC,3.436666666666667,,
+EV200,peripheral blood,gMDSC,8.225,,
+EV200,peripheral blood,mMDSC,4.495,,
+EV200,spleen,gMDSC,0.96,,
+EV200,spleen,mMDSC,4.175,,
+sham+sham,spleen,gMDSC,,nan,"[nan, nan]"
+sham+EV,spleen,gMDSC,,nan,"[nan, nan]"
+sham+sham,spleen,mMDSC,,nan,"[nan, nan]"
+sham+EV,spleen,mMDSC,,nan,"[nan, nan]"
+sham+sham,bone marrow,gMDSC,,nan,"[nan, nan]"
+sham+EV,bone marrow,gMDSC,,nan,"[nan, nan]"
+sham+sham,bone marrow,mMDSC,,nan,"[nan, nan]"
+sham+EV,bone marrow,mMDSC,,nan,"[nan, nan]"
+sham+sham,lymph nodes,gMDSC,,nan,"[nan, nan]"
+sham+EV,lymph nodes,gMDSC,,nan,"[nan, nan]"
+sham+sham,lymph nodes,mMDSC,,nan,"[nan, nan]"
+sham+EV,lymph nodes,mMDSC,,nan,"[nan, nan]"
+sham+sham,thymus,gMDSC,,nan,"[nan, nan]"
+sham+EV,thymus,gMDSC,,nan,"[nan, nan]"
+sham+sham,thymus,mMDSC,,nan,"[nan, nan]"
+sham+EV,thymus,mMDSC,,nan,"[nan, nan]"
+sham+sham,peripheral blood,gMDSC,,nan,"[nan, nan]"
+sham+EV,peripheral blood,gMDSC,,nan,"[nan, nan]"
+sham+sham,peripheral blood,mMDSC,,nan,"[nan, nan]"
+sham+EV,peripheral blood,mMDSC,,nan,"[nan, nan]"
+hep+sham,spleen,gMDSC,,nan,"[nan, nan]"
+hep+EV,spleen,gMDSC,,nan,"[nan, nan]"
+hep+sham,spleen,mMDSC,,nan,"[nan, nan]"
+hep+EV,spleen,mMDSC,,nan,"[nan, nan]"
+hep+sham,bone marrow,gMDSC,,nan,"[nan, nan]"
+hep+EV,bone marrow,gMDSC,,nan,"[nan, nan]"
+hep+sham,bone marrow,mMDSC,,nan,"[nan, nan]"
+hep+EV,bone marrow,mMDSC,,nan,"[nan, nan]"
+hep+sham,lymph nodes,gMDSC,,nan,"[nan, nan]"
+hep+EV,lymph nodes,gMDSC,,nan,"[nan, nan]"
+hep+sham,lymph nodes,mMDSC,,nan,"[nan, nan]"
+hep+EV,lymph nodes,mMDSC,,nan,"[nan, nan]"
+hep+sham,thymus,gMDSC,,nan,"[nan, nan]"
+hep+EV,thymus,gMDSC,,nan,"[nan, nan]"
+hep+sham,thymus,mMDSC,,nan,"[nan, nan]"
+hep+EV,thymus,mMDSC,,nan,"[nan, nan]"
+hep+sham,peripheral blood,gMDSC,,nan,"[nan, nan]"
+hep+EV,peripheral blood,gMDSC,,nan,"[nan, nan]"
+hep+sham,peripheral blood,mMDSC,,nan,"[nan, nan]"
+hep+EV,peripheral blood,mMDSC,,nan,"[nan, nan]"
